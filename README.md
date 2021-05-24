@@ -8,3 +8,9 @@
 - There were a total of **62** Vine reviews in the Grocery dataset.
 - Of those 62 Vine reviews, **20** had a 5-star rating.
 - The percentage of 5-star rated reviews out of all the Vine reviews was **32.3%**.
+
+**Unpaid Non-Vine Reviews Summary**
+![Unpaid DataFrame](https://github.com/mbroad1/Module-16-Amazon-Vine-Analysis/blob/main/Unpaid_DataFrame.png)
+- There were a total of **31237** Non-Vine reviews in the Grocery dataset.
+- Of those 31237 Non-Vine reviews, **15937** had a 5-star rating.
+- The percentage of 5-star rated reviews out of all the Non-Vine reviews was **51.0%**.
